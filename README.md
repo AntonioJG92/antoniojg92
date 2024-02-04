@@ -1,6 +1,7 @@
-# ¡Saludos! Soy Antonio  👋
+## ¡Saludos! Soy Antonio  👋
 
-## Sobre mí
+Me 
+
 
 
 ## Mis intereses
@@ -12,7 +13,7 @@
 ## Mis proyectos
 
 
-## Si el contenido te ha resultado útil, puedes apoyarme:
+## Si el contenido te ha resultado útil y quieres apoyarme:
 [![](https://img.shields.io/badge/1%20HIVE-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=antoniojg&amount=1%20HIVE) [![](https://img.shields.io/badge/5%20HIVE-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=antoniojg&amount=5%20HIVE) [![](https://img.shields.io/badge/10%20HIVE-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=antoniojg&amount=10%20HIVE)
 
 [![](https://img.shields.io/badge/1%20HBD-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=antoniojg&amount=1%20HBD) [![](https://img.shields.io/badge/5%20HBD-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=antoniojg&amount=5%20HBD) [![](https://img.shields.io/badge/10%20HBD-8e8e8e?style=for-the-badge&labelColor=101010)](https://hivesigner.com/sign/transfer?to=antoniojg&amount=10%20HBD)
