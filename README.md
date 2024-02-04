@@ -1,11 +1,9 @@
-## ¡Saludos! Soy Antonio  👋
+## ¡Saludos! Soy Antonio Gamboa 👋
 
-Me 
+Me gusta la tecnología, he estado aprendiendo programación de forma autodidacta. Actualmente estoy aprendiendo sobre Python, SQL, HTML y CSS.
 
-
-
- 
- 
+También creo contenido sobre Splinterlands en la Blockchain de Hive, conocer la Blockchain de Hive me ha motivado para seguir aprendiendo más 
+sobre programación y el mundo de las criptomonedas.
 
 ## Mis proyectos
 
