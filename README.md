@@ -7,7 +7,7 @@ sobre programación y el mundo de las criptomonedas.
 
 ## Mis proyectos
 
-## Tecnologías:
+## Tecnologías
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Si el contenido te ha resultado útil y quieres apoyarme:
