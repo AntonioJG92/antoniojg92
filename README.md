@@ -5,8 +5,6 @@ Me gusta la tecnología, he estado aprendiendo programación de forma autodidact
 También creo contenido sobre Splinterlands en la Blockchain de Hive, conocer la Blockchain de Hive me ha motivado para seguir aprendiendo más 
 sobre programación y el mundo de las criptomonedas.
 
-## Mis proyectos
-
 ## Tecnologías
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
